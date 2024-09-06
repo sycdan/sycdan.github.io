@@ -1,12 +1,22 @@
 # About Me
 
-I am one of the [many](https://howmany-ofme.com) people who go by the name `Dan Stace`, and this is my digital foyer, as it were.
+I am one of the [many](https://howmany-ofme.com) people who go by the name `Dan Stace`, and this is my digital foyer, as it were. Any views, opinions, ideas, etc available herein are my own.
 
-I identify problems and inefficiencies in logical systems (e.g. software) and try to fix them.
+[To make ends meet](CV/index.md), I identify problems and inefficiencies in logical systems (e.g. software) and try to fix them.
+
+[For fun](Fun/index.md), I like to solve puzzles of all kinds and min-max and/or automate various games.
 
 Occasionally I have novel ideas.
 
-Any views, opinions, ideas or other data available herein are my own.
+I care much more about the way things work than how they look.
+
+I enjoy primarily cooperative board games, with a notable exception being MtG.
+
+I am trying to build a permaculture food forest with my family, for increased food security and enhanced wellbeing.
+
+## Index
+
+- [CV](CV/index.md)
 
 ## Contact Pathways
 
@@ -21,7 +31,7 @@ Any views, opinions, ideas or other data available herein are my own.
 - Discord: `sycdan`
 - Google: `dobu.sycdan`
 
-## My Stuff
+## Websites
 
 - [Kill-Steel Games LLC](http://killsteelgames.com)
   - A project I started in 2023 in an attempt to stop procrastinating and actually try to bring any of my game ideas to life, after spending many years prioritizing working on things for other people.
