@@ -38,6 +38,10 @@ I am trying to build a permaculture food forest with my family, for increased fo
 
 ### WIP
 
+- [MyGooid](http://mygooid.com)
+
+  - A low-tech (paper-based) deterministic password manager/generator, for old (school) folks
+
 - [RoverTwo](http://rovertwo.com)
   - Currently conceptualized as a generic brute-force testing mechanism for puzzle/strategy games, by way of configurable assumption-based route optimization, this idea has been living in my head in one form or another since working on [DME](CV/2006.md).
 
