@@ -1,6 +1,12 @@
 # Curriculum Vitae
 
-### 2006-02 - 2006-05 | Contract Software Developer @ [S&D Transportation](https://milliondollartransportation.com)
+### 2002-11 – 2003-06 | Shop Assistant, Computers At Torrington (Devon, England)
+
+`Retail` | `Hardware`
+
+- Clerical duties, inventorying, PC & printer maintenance
+
+### 2006-02 – 2006-05 | Contract Software Developer @ [S&D Transportation](https://milliondollartransportation.com)
 
 `Healthcare` · `Fleet Management` | `C#` · `Access`
 
@@ -8,17 +14,17 @@
 - Designed icons for use within the application and extensive documentation for its use
 - Built distributable package with registration keys
 
-### 2006-08 - 2006-12 | Assistant Landscaper @ Serenity Gardens Inc.
+### 2006-08 – 2006-12 | Assistant Landscaper @ Serenity Gardens Inc.
 
 - Lots of clearing gutters and blowing leaves!
 
-### 2007-05 - 2020-05 | Automation Specialist, Programmer, Data Analyst @ Gunks, Inc.
+### 2007-05 – 2020-05 | Automation Specialist, Programmer, Data Analyst @ Gunks, Inc.
 
 `Healthcare` · `BI` · `B2B` | `Excel` · `PowerPoint` · `VBA`
 
 - Parsed large datasets from various vendors into a consistent format from which to produce many different MS Office & PDF reports for multiple pharmaceutical clients (Tableau eventually killed this job)
 
-### 2014-09 - 2015-01 | Developer @ Spectrum Creative Solutions (acquired by Liason)
+### 2014-09 – 2015-01 | Developer @ Spectrum Creative Solutions (acquired by Liason)
 
 `Education` | `Python` · `PHP` · `HTML` · `JavaScript` · `Bash`
 
@@ -27,7 +33,7 @@
 - Created an intuitive way for users to choose the character encoding used in uploaded files
 - Wrote a script to quickly add jailed SFTP user accounts to an EC2 fileserver
 
-### 2014-12 - 2021-01 | Developer @ [Accomplice LLC](https://accpl.co)
+### 2014-12 – 2021-01 | Developer @ [Accomplice LLC](https://accpl.co)
 
 `Fintech` · `B2B` · `ETL` | `Python` · `Django` · `Flask` · `SQLAlchemy` · `Angular 8+` · `ngRx` · `VueJS` · `HTML`
 
@@ -41,7 +47,7 @@
 - Built the backend of a Java/Spring Boot dynamic form app using a `Drools` & `MongoDB`
 - Wrote most of the VueJS code for bumblehive.app
 
-### 2021-01 - 2021-12 | Software Engineer (Backend / Full Stack) @ [Uncommon Giving Corporation](https://uncommongiving.com)
+### 2021-01 – 2021-12 | Software Engineer (Backend / Full Stack) @ [Uncommon Giving Corporation](https://uncommongiving.com)
 
 `Fintech` · `Philanthropy` | `AWS` · `Python` · `Angular` · `Elasticsearch` · `Quickbooks`
 
