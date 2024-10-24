@@ -22,7 +22,7 @@ I am trying to build a permaculture food forest with my family, for increased fo
 
 ### Professional
 
-- Google: `dstace`
+- [Google](https://gmail.com): `dstace`
 
 ### Personal
 
@@ -45,7 +45,6 @@ I am trying to build a permaculture food forest with my family, for increased fo
 
 - [ProbablyFair](http://probablyfair.com)
   - I planned to make this into a tool for fairly picking a "winner" for highly-sought items made available via [Buy Nothing](https://buynothingproject.org), but I was not able to get API permissions I needed to efficiently collect the data needed to make it work as I envisioned.
-  
 - [FileSlug](http://fileslug.com)
   - Initially built for a friend as a dissemination platform for works of fiction, this eventually morphed into an idea for sharing arbitrary data in P2P fashion using physical objects. However, due to time constraints and never quite settling on an implementation pathway, the idea eventually stopped being actively pursued.
 
