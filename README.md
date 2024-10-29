@@ -12,7 +12,7 @@ I care much more about the way things work than how they look.
 
 I enjoy primarily cooperative board games, with a notable exception being MtG.
 
-I am trying to build a permaculture food forest with my family, for increased food security and enhanced wellbeing.
+I am trying to build a permaculture food forest in upstate NY with my family, for increased food security and enhanced wellbeing.
 
 ## Index
 

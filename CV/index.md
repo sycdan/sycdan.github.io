@@ -10,7 +10,7 @@
 
 ### 2022-01+ | Senior Software Engineer @ [Signify Health](https://signifyhealth.com) (acquired by CVS)
 
-`Enterprise` · `Healthcare` · `B2B` | `SQL` · `Kubernetes` · `Python` · `C#` · `Kafka` · `Azure` · `Powershell` · `Angular` · `Elasticsearch` · `GCP` · `NServiceBus`
+`Enterprise` · `Healthcare` · `B2B` | `C#` · `Google CFR & OR-Tools` · `dotnet` · `ASP.NET` · `Python` · `TypeScript` · `Angular` · `Powershell` · `Kubernetes` · `Kafka` · `Azure` · `GCP` · `NServiceBus` · `Elasticsearch`
 
 - Reduced error rate by over 50% (actually more like 90% for a specific error type) with a single line of code
 - Resolved a years-old data inconsistency with a [single line of code](Stories/2024-09-18.md)
