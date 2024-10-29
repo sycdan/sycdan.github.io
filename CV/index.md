@@ -87,3 +87,16 @@
 `Retail` | `Hardware`
 
 - Clerical duties, inventorying, PC & printer maintenance
+
+## 2001
+
+### 2001 - 2002 | Student, North Devon College (Devon, England)
+
+`VB6` · `Problem Solving`
+
+- GNVQ, Information and Communication Technology
+  - Grade: `Distinction`
+- Wrote various software during lunch periods and other free time, including:
+  - Horse-racing game
+  - Tools to allow students to customize their Windows terminals in ways that were ostensibly locked by the sysadmin
+  - A Windows Explorer clone that had more access to files than the restricted one we were supposed to use
