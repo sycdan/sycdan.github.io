@@ -29,7 +29,7 @@ I am trying to build a permaculture food forest in upstate NY with my family, fo
 - [Reddit](https://reddit.com/u/sycdan)
 - [Keybase](https://keybase.io/sycdan)
 - Discord: `sycdan`
-- Google: `dobu.sycdan`
+- [Google](https://gmail.com): `dobu.sycdan`
 
 ## Websites
 
