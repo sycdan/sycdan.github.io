@@ -42,7 +42,7 @@ I am trying to build a permaculture food forest in upstate NY with my family, fo
 
   - A low-tech (paper-based) deterministic password manager/generator, for old (school) folks
 
-- [RoverTwo](http://rovertwo.com)
+- [RoverTwo](Fun/RoverTwo/Tests.md)
   - Currently conceptualized as a generic brute-force testing mechanism for puzzle/strategy games, by way of configurable assumption-based route optimization, this idea has been living in my head in one form or another since working on [DME](CV/index.md#2006).
 - [TheTealDeer](http://thetealdeer.com)
   - Maybe this will be an AI-backed assistant for understanding board game rules someday... or maybe it shall remain a teal deer.
