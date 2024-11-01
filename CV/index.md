@@ -8,7 +8,7 @@
 
 - Working on a route optimization solver that will hopefully underpin a game engine eventually
 
-### 2022-01+ | Senior Software Engineer @ [Signify Health](https://signifyhealth.com) (acquired by CVS)
+### 2022-01 - 2024-10 | Senior Software Engineer @ [Signify Health](https://signifyhealth.com) (acquired by CVS)
 
 `Enterprise` · `Healthcare` · `B2B` | `C#` · `Google CFR & OR-Tools` · `dotnet` · `ASP.NET` · `Python` · `TypeScript` · `Angular` · `Powershell` · `Kubernetes` · `Kafka` · `Azure` · `GCP` · `NServiceBus` · `Elasticsearch`
 
