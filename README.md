@@ -56,4 +56,4 @@ I am trying to build a permaculture food forest in upstate NY with my family, fo
 
 ---
 
-_©️ 2023 Dan Stace_
+_©️ 2023+ Dan Stace_
