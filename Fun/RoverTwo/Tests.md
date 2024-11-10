@@ -1,6 +1,6 @@
 # RoverTwo Tests
 
-Here are some examples of the test suit for RoverTwo, my work-in-progress route optimizer.
+Here are some examples of the test suite for RoverTwo, my work-in-progress route optimizer.
 
 - [ProblemTests.cs](KSG.RoverTwo.Tests/ProblemTests.md)
 - [SolverTests.cs](KSG.RoverTwo.Tests/SolverTests.md)
