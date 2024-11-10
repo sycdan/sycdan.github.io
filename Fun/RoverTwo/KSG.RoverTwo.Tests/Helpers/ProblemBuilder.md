@@ -8,7 +8,6 @@ namespace KSG.RoverTwo.Tests.Helpers;
 public static class ProblemBuilder
 {
 	internal const string REWARD = "reward";
-	internal const string VISIT_TASK_PREFIX = "visit-task-";
 
 	public static Hub Hub(string? id = null, (double x, double y)? coordinates = null, string? name = null)
 	{
