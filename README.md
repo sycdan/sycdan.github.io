@@ -1,6 +1,6 @@
 # About Me
 
-I am one of the [many](https://howmany-ofme.com) people who go by the name `Dan Stace`, and this is my digital foyer, as it were. Any views, opinions, ideas, etc available herein are my own.
+I am one of the [many](https://duckduckgo.com/?q=%22dan+stace%22) people who go by the name `Dan Stace`, and this is my digital foyer, as it were. Any views, opinions, ideas, etc available herein are my own.
 
 [To make ends meet](CV/index.md), I identify problems and inefficiencies in logical systems (e.g. software) and try to fix them.
 
@@ -38,19 +38,20 @@ I am trying to build a permaculture food forest in upstate NY with my family, fo
 
 ### WIP
 
-- [MyGooid](http://mygooid.com)
-
-  - A low-tech (paper-based) deterministic password manager/generator, for old (school) folks
-
 - [RoverTwo](Fun/RoverTwo/Tests.md)
   - Currently conceptualized as a generic brute-force testing mechanism for puzzle/strategy games, by way of configurable assumption-based route optimization, this idea has been living in my head in one form or another since working on [DME](CV/index.md#2006).
+
 - [TheTealDeer](http://thetealdeer.com)
   - Maybe this will be an AI-backed assistant for understanding board game rules someday... or maybe it shall remain a teal deer.
+
+- [MyGooid](http://mygooid.com) [not currently active]
+  - A low-tech (paper-based) deterministic password manager/generator, for old (school) folks
 
 ### Defunct
 
 - [ProbablyFair](http://probablyfair.com)
   - I planned to make this into a tool for fairly picking a "winner" for highly-sought items made available via [Buy Nothing](https://buynothingproject.org), but I was not able to get API permissions I needed to efficiently collect the data needed to make it work as I envisioned.
+
 - [FileSlug](http://fileslug.com)
   - Initially built for a friend as a dissemination platform for works of fiction, this eventually morphed into an idea for sharing arbitrary data in P2P fashion using physical objects. However, due to time constraints and never quite settling on an implementation pathway, the idea eventually stopped being actively pursued.
 
