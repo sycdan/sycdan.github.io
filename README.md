@@ -67,6 +67,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABEQAAAgEA1Pkrd0Zcqzy8FX7/9G4RPec72opIX7rTJ12Zts027ig5
 
 Foundational documents describing my software philosophies:
 
+- [Zerostar](kb/00000000-0000-7000-8000-0ebcccd7c601.md) — foundational documents with zero-timestamp identities.
 - [KINGSMetaL](kb/00000000-0000-7348-ad47-04d09865aab0.md) — the document format behind my knowledge bases.
 - [CiaPoD](kb/00000000-0000-7cd9-a713-7acfa64365ee.md) — code is a product of documentation.
 
