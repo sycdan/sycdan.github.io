@@ -39,6 +39,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABEQAAAgEA1Pkrd0Zcqzy8FX7/9G4RPec72opIX7rTJ12Zts027ig5
 
 ## Websites
 
+- [ZeroStar.IO](https://zerostar-io.dstace.chatgpt.site) — a knowledge base of foundational zerostars, including Zerostar, KINGSMetaL, and CiaPoD.
+
 - [Kill-Steel Games LLC](http://killsteelgames.com)
   - A project I started in 2023 in an attempt to stop procrastinating and actually try to bring any of my game ideas to life, after spending many years prioritizing working on things for other people.
 
@@ -62,14 +64,6 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABEQAAAgEA1Pkrd0Zcqzy8FX7/9G4RPec72opIX7rTJ12Zts027ig5
   - Initially built for a friend as a dissemination platform for works of fiction, this eventually morphed into an idea for sharing arbitrary data in P2P fashion using physical objects. However, due to time constraints and never quite settling on an implementation pathway, the idea eventually stopped being actively pursued.
 
 ---
-
-## Zerostars
-
-Foundational documents describing my software philosophies:
-
-- [Zerostar](kb/00000000-0000-7000-8000-0ebcccd7c601.md) — foundational documents with zero-timestamp identities.
-- [KINGSMetaL](kb/00000000-0000-7348-ad47-04d09865aab0.md) — the document format behind my knowledge bases.
-- [CiaPoD](kb/00000000-0000-7cd9-a713-7acfa64365ee.md) — code is a product of documentation.
 
 _©️ 2023+ Dan Stace_
 
